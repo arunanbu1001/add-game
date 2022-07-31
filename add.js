@@ -45,7 +45,7 @@ for (var j = 0; j < arra.length; j++) {
     }
     }
 })
-  //console.log(arre)
+  console.log(arre)
   d.setAttribute("class","bor1")
   d.setAttribute("border","2px solid")
 }
